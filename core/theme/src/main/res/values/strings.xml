@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_back">Back</string>
+    <string name="btn_add_cntDesc">add</string>
+    <string name="btn_scratch">Scratch</string>
+    <string name="btn_scratch_card">Scratch card</string>
+    <string name="btn_card_scratched">Card scratched</string>
+    <string name="btn_activate">Activate</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_yes">Yes</string>
+    <string name="scr_title_home">Home</string>
+    <string name="scr_title_activate">Activation</string>
+    <string name="scr_title_scratch">Scratch</string>
+    <string name="txt_scratch_failure">Unable to scratch for now, please try again later.</string>
+    <string name="txt_activate_failure">Unable to activate for now, please try again later.</string>
+    <string name="txt_delete_card">Really want to delete this card?</string>
+    <string name="txt_no_cards">No cards</string>
+    <string name="txt_error_generic">Something went wrong</string>
+    <string name="not_connected">You aren’t connected to the internet</string>
+
+</resources>
